@@ -32,10 +32,12 @@ To play **Crafts**, you'll need to print out the provided components and review 
 ```plaintext
 Crafts-Board-Game/
 ├── Components/
-│   ├── Material_Cards.pdf
-│   ├── Tool_Cards.pdf
-│   ├── Upgrade_Cards.pdf
-│   ├── Seller_Cards.pdf
+│   ├── Material_Cards
+│   ├── Tool_Cards
+│   ├── Upgrade_Cards
+│   ├── Seller_Cards
+│   ├── Market Board.png
+│   ├── Player Board.png
 ├── Rules/
 │   ├── Rules.pdf
 ├── README.md
