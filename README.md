@@ -30,7 +30,7 @@ To play **Crafts**, you'll need to print out the provided components and review 
 ### Repository Structure
 
 ```plaintext
-Traditional-Crafts/
+Crafts-Board-Game/
 ├── Components/
 │   ├── Material_Cards.pdf
 │   ├── Tool_Cards.pdf
